@@ -1,0 +1,1 @@
+INSERT INTO member(id, name, money) VALUES(1, '성건희', 10000);

@@ -1,0 +1,13 @@
+package com.geon.publicmoneycalendar;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class PublicMoneyCalendarApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
